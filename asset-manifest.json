@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ud-monsters/static/css/main.ea9ec7ec.chunk.css",
+    "main.js": "/react-ud-monsters/static/js/main.239b84b5.chunk.js",
+    "main.js.map": "/react-ud-monsters/static/js/main.239b84b5.chunk.js.map",
+    "runtime-main.js": "/react-ud-monsters/static/js/runtime-main.5dfe98e7.js",
+    "runtime-main.js.map": "/react-ud-monsters/static/js/runtime-main.5dfe98e7.js.map",
+    "static/js/2.4abd6fec.chunk.js": "/react-ud-monsters/static/js/2.4abd6fec.chunk.js",
+    "static/js/2.4abd6fec.chunk.js.map": "/react-ud-monsters/static/js/2.4abd6fec.chunk.js.map",
+    "index.html": "/react-ud-monsters/index.html",
+    "precache-manifest.01b7b5c6dc2f2b75f9f42c6aa40c79e9.js": "/react-ud-monsters/precache-manifest.01b7b5c6dc2f2b75f9f42c6aa40c79e9.js",
+    "service-worker.js": "/react-ud-monsters/service-worker.js",
+    "static/css/main.ea9ec7ec.chunk.css.map": "/react-ud-monsters/static/css/main.ea9ec7ec.chunk.css.map",
+    "static/js/2.4abd6fec.chunk.js.LICENSE.txt": "/react-ud-monsters/static/js/2.4abd6fec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dfe98e7.js",
+    "static/js/2.4abd6fec.chunk.js",
+    "static/css/main.ea9ec7ec.chunk.css",
+    "static/js/main.239b84b5.chunk.js"
+  ]
+}
